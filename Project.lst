@@ -11,7 +11,7 @@ AddTwo.asm						     Page 1 - 1
 					 DISPLAY TASK
 					 ;
 
-					 ;*********FILE HANDLING********
+					 ;**********FILE HANDLING********
 					 ;*********START*********
 
 				INCLUDE Irvine32.inc
